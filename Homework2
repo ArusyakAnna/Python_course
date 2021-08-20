@@ -1,2 +1,6 @@
-lst1 = [1, 2, 3, 4, 5]
-print (lst1)
+# Homework 3
+#Salaries
+lst = [100, 500, 1000]
+lst.sort(reverse=True)
+x = lst[0] - lst[-1]
+print(x)
